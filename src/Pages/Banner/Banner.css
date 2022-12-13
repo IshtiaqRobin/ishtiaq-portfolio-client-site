@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+
+.custom_font {
+    font-family: 'Syne', sans-serif;
+}
+
+.poppies_fonts {
+    font-family: 'Poppins', sans-serif;
+}
+
+.jost_fonts {
+    font-family: 'Jost', sans-serif;
+}
+
+.header {
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+
+.italianno_fonts {
+    font-family: 'Italianno', cursive;
+}
